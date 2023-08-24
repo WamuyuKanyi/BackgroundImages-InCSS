@@ -1,0 +1,19 @@
+/* to add background image use the property background
+for a smaller image it will repeat itself to fit the whole div */
+
+div{
+  height: 300px;
+  color: red;
+}
+
+.flowers{
+  background: url(./Images/flowers.jpeg);
+}
+
+.cake{
+  background: url(./Images/cake.jpeg)
+}
+
+.pot{
+  background:url(./Images/pot.jpeg) ;
+}
